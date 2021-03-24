@@ -1,1 +1,3 @@
-# chat_bot
+# chatbot
+
+MODEL STILL IN PROGRESS 
