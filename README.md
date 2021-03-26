@@ -1,6 +1,6 @@
 # chatbot
 
-MODEL STILL IN PROGRESS 
+JSON STILL IN PROGRESS I WILL ADD MORE TOPICS 
 
 I used  desk PYQT5 and Flask for web for showing chatbot!
 
